@@ -18,7 +18,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ![](https://i.imgur.com/m51JkG0.png)   
 
-- Você pode acessar o projeto clicando <a href="https://project-flexbox-dio.vercel.app/">aqui</a>.
+- Você pode acessar o projeto clicando <a href="file:///C:/Users/charles/OneDrive/%C3%81rea%20de%20Trabalho/site%20charles/project-flexbox-dio/flex-projeto/index.html">aqui</a>.
 
 ---
 
