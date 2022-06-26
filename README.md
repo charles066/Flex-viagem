@@ -16,7 +16,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-![](https://i.imgur.com/m51JkG0.png)   
+![](https://i.imgur.com/m9As1gR.png)  
 
 - Você pode acessar o projeto clicando <a href="file:///C:/Users/charles/OneDrive/%C3%81rea%20de%20Trabalho/site%20charles/project-flexbox-dio/flex-projeto/index.html">aqui</a>.
 
