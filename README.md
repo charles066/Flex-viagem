@@ -21,7 +21,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🖥️ Demonstração
 
-![](https://i.imgur.com/m51JkG0.png)   
+![](https://i.imgur.com/m9As1gR.png)  
 
 
 ---
